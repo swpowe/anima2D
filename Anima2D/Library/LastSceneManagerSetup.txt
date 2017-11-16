@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Anima2D/Examples/Scenes/Robot.unity
+- path: Assets/[ Scenes ]/RocketBoyPreBake.unity
   isLoaded: 1
   isActive: 1

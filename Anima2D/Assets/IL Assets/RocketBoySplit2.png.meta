@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 2a731af71e1bc4c848a436f9d75a9e2e
+timeCreated: 1510857388
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RocketBoy_Hair
+    21300002: RocketBoy_Face
+    21300004: RocketBoy_LeftEye
+    21300006: RocketBoy_RightEye
+    21300008: RocketBoy_LeftArm
+    21300010: RocketBoy_RightArm
+    21300012: RocketBoy_Hip
+    21300014: RocketBoy_ScarfNeck
+    21300016: RocketBoy_LeftLeg
+    21300018: RocketBoy_RightLeg
+    21300020: RocketBoy_Scarf
+    21300022: RocketBoy_Chest
+    21300024: RocketBoy_LeftFoot
+    21300026: RocketBoy_RightFoot
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RocketBoy_Hair
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 797
+        width: 293
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5017065, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_Face
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 681
+        width: 327
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_LeftEye
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 763
+        width: 100
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48989898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_RightEye
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 766
+        width: 55
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5181818, y: 0.4935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_LeftArm
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 396
+        width: 104
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4953704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_RightArm
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 393
+        width: 111
+        height: 323
+      alignment: 9
+      pivot: {x: 0.509009, y: 0.48916408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_Hip
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 613
+        width: 123
+        height: 75
+      alignment: 9
+      pivot: {x: 0.50406504, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_ScarfNeck
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 281
+        width: 176
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5086207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 188
+        width: 102
+        height: 346
+      alignment: 9
+      pivot: {x: 0.45588237, y: 0.50144506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_RightLeg
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 213
+        width: 86
+        height: 346
+      alignment: 9
+      pivot: {x: 0.49418604, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_Scarf
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 148
+        height: 263
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_Chest
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 84
+        width: 145
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5103448, y: 0.5053476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_LeftFoot
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 58
+        width: 138
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: RocketBoy_RightFoot
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 54
+        width: 138
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5036232, y: 0.51666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 99015548076032
+  assetBundleName: 
+  assetBundleVariant: 
