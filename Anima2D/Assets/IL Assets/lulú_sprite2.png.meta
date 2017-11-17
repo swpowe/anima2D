@@ -1,41 +1,53 @@
 fileFormatVersion: 2
-guid: 798224cc137a64292a71589f95a99304
-timeCreated: 1510936904
+guid: ef611f0b3e0f04023a3147aa1422e89d
+timeCreated: 1510939576
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: "lulu\u0301_head"
-    21300002: "lulu\u0301_sprite_1"
-    21300004: "lulu\u0301_sprite_2"
-    21300006: "lulu\u0301_sprite_3"
-    21300008: "lulu\u0301_sprite_4"
-    21300010: "lulu\u0301_sprite_5"
-    21300012: "lulu\u0301_sprite_6"
-    21300014: "lulu\u0301_sprite_7"
-    21300016: "lulu\u0301_sprite_8"
-    21300018: "lulu\u0301_sprite_9"
-    21300020: "lulu\u0301_sprite_10"
-    21300022: "lulu\u0301_sprite_11"
-    21300024: "lulu\u0301_sprite_12"
-    21300026: "lulu\u0301_sprite_13"
-    21300028: "lulu\u0301_sprite_14"
-    21300030: "lulu\u0301_sprite_15"
-    21300032: "lulu\u0301_sprite_16"
-    21300034: "lulu\u0301_sprite_17"
-    21300036: "lulu\u0301_body"
-    21300038: "lulu\u0301_sprite_19"
-    21300040: "lulu\u0301_sprite_20"
-    21300042: "lulu\u0301_sprite_21"
-    21300044: "lulu\u0301_sprite_22"
-    21300046: "lulu\u0301_sprite_23"
-    21300048: "lulu\u0301_sprite_24"
-    21300050: "lulu\u0301_sprite_25"
-    21300052: "lulu\u0301_sprite_26"
-    21300054: "lulu\u0301_sprite_27"
-    21300056: "lulu\u0301_sprite_28"
-    21300058: "lulu\u0301_sprite_29"
-    21300060: "lulu\u0301_sprite_30"
-    21300062: "lulu\u0301_sprite_31"
+    21300002: "lulu\u0301_sprite2_1"
+    21300004: "lulu\u0301_sprite2_2"
+    21300006: "lulu\u0301_sprite2_3"
+    21300008: "lulu\u0301_sprite2_4"
+    21300010: "lulu\u0301_sprite2_5"
+    21300012: "lulu\u0301_sprite2_6"
+    21300014: "lulu\u0301_sprite2_7"
+    21300016: "lulu\u0301_sprite2_8"
+    21300018: "lulu\u0301_sprite2_9"
+    21300020: "lulu\u0301_sprite2_10"
+    21300022: "lulu\u0301_sprite2_11"
+    21300024: "lulu\u0301_sprite2_12"
+    21300026: "lulu\u0301_sprite2_13"
+    21300028: "lulu\u0301_LeftArm"
+    21300030: "lulu\u0301_torso"
+    21300032: "lulu\u0301_sprite2_16"
+    21300034: "lulu\u0301_sprite2_17"
+    21300036: "lulu\u0301_sprite2_18"
+    21300038: "lulu\u0301_LeftLeg"
+    21300040: "lulu\u0301_RightLeg"
+    21300042: "lulu\u0301_sprite2_21"
+    21300044: "lulu\u0301_RightArm"
+    21300046: "lulu\u0301_sprite2_23"
+    21300048: "lulu\u0301_sprite2_24"
+    21300050: "lulu\u0301_sprite2_25"
+    21300052: "lulu\u0301_sprite2_26"
+    21300054: "lulu\u0301_sprite2_27"
+    21300056: "lulu\u0301_sprite2_28"
+    21300058: "lulu\u0301_sprite2_29"
+    21300060: "lulu\u0301_sprite2_30"
+    21300062: "lulu\u0301_sprite2_31"
+    21300064: "lulu\u0301_sprite2_32"
+    21300066: "lulu\u0301_sprite2_33"
+    21300068: "lulu\u0301_sprite2_34"
+    21300070: "lulu\u0301_sprite2_35"
+    21300072: "lulu\u0301_sprite2_36"
+    21300074: "lulu\u0301_sprite2_37"
+    21300076: "lulu\u0301_sprite2_38"
+    21300078: "lulu\u0301_sprite2_39"
+    21300080: "lulu\u0301_sprite2_40"
+    21300082: "lulu\u0301_sprite2_41"
+    21300084: "lulu\u0301_LeftFoot"
+    21300086: "lulu\u0301_RightFoot"
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -113,17 +125,17 @@ TextureImporter:
       name: "lulu\u0301_head"
       rect:
         serializedVersion: 2
-        x: 6.0000305
-        y: 655
-        width: 433
-        height: 369
-      alignment: 9
-      pivot: {x: 0.4988452, y: 0.50406504}
+        x: 12
+        y: 662
+        width: 420
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_1"
+      name: "lulu\u0301_sprite2_1"
       rect:
         serializedVersion: 2
         x: 439
@@ -136,7 +148,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_2"
+      name: "lulu\u0301_sprite2_2"
       rect:
         serializedVersion: 2
         x: 524
@@ -149,7 +161,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_3"
+      name: "lulu\u0301_sprite2_3"
       rect:
         serializedVersion: 2
         x: 604
@@ -162,7 +174,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_4"
+      name: "lulu\u0301_sprite2_4"
       rect:
         serializedVersion: 2
         x: 691
@@ -175,7 +187,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_5"
+      name: "lulu\u0301_sprite2_5"
       rect:
         serializedVersion: 2
         x: 744
@@ -188,7 +200,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_6"
+      name: "lulu\u0301_sprite2_6"
       rect:
         serializedVersion: 2
         x: 861
@@ -201,7 +213,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_7"
+      name: "lulu\u0301_sprite2_7"
       rect:
         serializedVersion: 2
         x: 940
@@ -214,7 +226,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_8"
+      name: "lulu\u0301_sprite2_8"
       rect:
         serializedVersion: 2
         x: 512
@@ -227,7 +239,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_9"
+      name: "lulu\u0301_sprite2_9"
       rect:
         serializedVersion: 2
         x: 604
@@ -240,7 +252,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_10"
+      name: "lulu\u0301_sprite2_10"
       rect:
         serializedVersion: 2
         x: 704
@@ -253,7 +265,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_11"
+      name: "lulu\u0301_sprite2_11"
       rect:
         serializedVersion: 2
         x: 752
@@ -266,25 +278,25 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_12"
+      name: "lulu\u0301_sprite2_12"
       rect:
         serializedVersion: 2
-        x: 116
-        y: 441
+        x: 76
+        y: 439
         width: 236
-        height: 204
+        height: 205
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_13"
+      name: "lulu\u0301_sprite2_13"
       rect:
         serializedVersion: 2
-        x: 547
-        y: 491
-        width: 182
+        x: 348
+        y: 484
+        width: 184
         height: 157
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -292,36 +304,49 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_14"
+      name: "lulu\u0301_LeftArm"
       rect:
         serializedVersion: 2
-        x: 12
-        y: 251
-        width: 116
-        height: 171
+        x: 583
+        y: 462
+        width: 177
+        height: 228
+      alignment: 9
+      pivot: {x: 0.45762712, y: 0.502193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_torso"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 438
+        width: 153
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49803925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_16"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 368
+        width: 71
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_15"
+      name: "lulu\u0301_sprite2_17"
       rect:
         serializedVersion: 2
-        x: 203
-        y: 352
-        width: 70
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: "lulu\u0301_sprite_16"
-      rect:
-        serializedVersion: 2
-        x: 340
+        x: 144
         y: 355
         width: 70
         height: 37
@@ -331,11 +356,11 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_17"
+      name: "lulu\u0301_sprite2_18"
       rect:
         serializedVersion: 2
-        x: 431
-        y: 340
+        x: 266
+        y: 352
         width: 66
         height: 46
       alignment: 0
@@ -344,24 +369,63 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_body"
+      name: "lulu\u0301_LeftLeg"
       rect:
         serializedVersion: 2
-        x: 735
-        y: 0
-        width: 279
-        height: 474
+        x: 508
+        y: 112
+        width: 86
+        height: 280
       alignment: 9
-      pivot: {x: 0.5, y: 0.4947257}
+      pivot: {x: 0.39534885, y: 0.4625}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_19"
+      name: "lulu\u0301_RightLeg"
       rect:
         serializedVersion: 2
-        x: 196
-        y: 263
+        x: 686
+        y: 104
+        width: 115
+        height: 260
+      alignment: 9
+      pivot: {x: 0.5043478, y: 0.45576924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_21"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 348
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_RightArm"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 146
+        width: 115
+        height: 212
+      alignment: 9
+      pivot: {x: 0.7260869, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_23"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 275
         width: 65
         height: 37
       alignment: 0
@@ -370,11 +434,11 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_20"
+      name: "lulu\u0301_sprite2_24"
       rect:
         serializedVersion: 2
-        x: 338
-        y: 290
+        x: 144
+        y: 272
         width: 68
         height: 33
       alignment: 0
@@ -383,7 +447,46 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_21"
+      name: "lulu\u0301_sprite2_25"
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 285
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_26"
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 303
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_27"
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 286
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_28"
       rect:
         serializedVersion: 2
         x: 19
@@ -396,7 +499,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_22"
+      name: "lulu\u0301_sprite2_29"
       rect:
         serializedVersion: 2
         x: 98
@@ -409,7 +512,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_23"
+      name: "lulu\u0301_sprite2_30"
       rect:
         serializedVersion: 2
         x: 191
@@ -422,20 +525,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_24"
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 18
-        width: 386
-        height: 198
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: "lulu\u0301_sprite_25"
+      name: "lulu\u0301_sprite2_31"
       rect:
         serializedVersion: 2
         x: 23
@@ -448,7 +538,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_26"
+      name: "lulu\u0301_sprite2_32"
       rect:
         serializedVersion: 2
         x: 92
@@ -461,7 +551,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_27"
+      name: "lulu\u0301_sprite2_33"
       rect:
         serializedVersion: 2
         x: 196
@@ -474,7 +564,72 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_28"
+      name: "lulu\u0301_sprite2_34"
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 116
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_35"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 102
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_36"
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 101
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_37"
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 103
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_38"
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 105
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_sprite2_39"
       rect:
         serializedVersion: 2
         x: 20
@@ -487,7 +642,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_29"
+      name: "lulu\u0301_sprite2_40"
       rect:
         serializedVersion: 2
         x: 88
@@ -500,7 +655,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_30"
+      name: "lulu\u0301_sprite2_41"
       rect:
         serializedVersion: 2
         x: 200
@@ -513,20 +668,33 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: "lulu\u0301_sprite_31"
+      name: "lulu\u0301_LeftFoot"
       rect:
         serializedVersion: 2
-        x: 729
-        y: 0
-        width: 23
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 21
+        width: 86
+        height: 47
+      alignment: 9
+      pivot: {x: 0.45930234, y: 0.4361702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "lulu\u0301_RightFoot"
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 28
+        width: 91
+        height: 40
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.4875}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     outline: []
   spritePackingTag: 
-  userData: 99020730925056
+  userData: 99020933234688
   assetBundleName: 
   assetBundleVariant: 
